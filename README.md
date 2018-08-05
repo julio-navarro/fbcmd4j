@@ -3,6 +3,7 @@
 Actividad de facebook basado en linea de comandos
 
 ## Instalacion
+
 ##Objetivo de la evidencia
 -Aprender a utiliza la tecnología y el lenguaje Java® para instalar y configurar un ambiente de desarrollo
 
@@ -17,11 +18,10 @@ Actividad de facebook basado en linea de comandos
 - En una consola ejecutar mediante java
 
 ## Creditos
-Jose Manuel
-Julio Cesar Navarro Martinez Matricula 2784203
+- Jose Manuel
+- Julio Cesar Navarro Martinez Matricula 2784203
 
 ## Licencia
 
 MIT
 https://opensource.org/licenses/MIT
-
