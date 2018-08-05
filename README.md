@@ -5,7 +5,7 @@ Actividad de facebook basado en linea de comandos
 ## Instalacion
 
 ## Objetivo de la evidencia
--Aprender a utiliza la tecnología y el lenguaje Java® para instalar y configurar un ambiente de desarrollo
+-Aprender a utilizar la tecnología y el lenguaje Java® para instalar y configurar un ambiente de desarrollo
 
 ### Opcion 1: Descargar el jar
 - Entrar a la pagina: https://github.com/julio-navarro/fbcmd4j
@@ -25,4 +25,3 @@ Actividad de facebook basado en linea de comandos
 
 MIT
 https://opensource.org/licenses/MIT
-
