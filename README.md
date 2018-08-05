@@ -8,7 +8,7 @@ Actividad de facebook basado en linea de comandos
 -Aprender a utiliza la tecnología y el lenguaje Java® para instalar y configurar un ambiente de desarrollo
 
 ### Opcion 1: Descargar el jar
-- Entrar a la pagina: https://github.com/julio-navarro/fbcmd4j/blob/master/README.md
+- Entrar a la pagina: https://github.com/julio-navarro/fbcmd4j
 - Descargar el archivo fbcmj4.jar
 - En una consola ejecutar mediante 'java -jar fbcmj4.jar'
 
